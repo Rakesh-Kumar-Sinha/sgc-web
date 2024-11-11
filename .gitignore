@@ -2,9 +2,6 @@
 /node_modules
 /public/build
 /public/hot
-/public/storage
-/storage/*.key
-/storage/pail
 /vendor
 .env
 .env.backup
@@ -20,4 +17,4 @@ yarn-error.log
 /.idea
 /.vscode
 /.zed
-/public/frontend/img/*
+
